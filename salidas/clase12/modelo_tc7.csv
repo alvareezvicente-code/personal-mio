@@ -1,0 +1,5 @@
+,coeficiente
+Intercept,25.515530360533184
+transito_miles,0.5830494848966263
+franja_empinada,-31.39467630843366
+transito_miles:franja_empinada,2.355330896076835

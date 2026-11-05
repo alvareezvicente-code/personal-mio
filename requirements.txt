@@ -1,2 +1,6 @@
-pandas
-Pillow
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+statsmodels==0.15.0
+pyarrow==26.0.1
+Pillow==13.0.0

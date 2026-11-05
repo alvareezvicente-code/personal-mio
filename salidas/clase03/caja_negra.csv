@@ -1,0 +1,11 @@
+objeto_id,textura,rigidez,num_aristas,peso_estimado_g,certeza_observador
+1,suave,blando,0,45.0,5
+2,rugoso,rígido,8,120.5,4
+3,poroso,medio,0,15.0,3
+4,suave,blando,4,85.0,5
+5,rugoso,rígido,12,210.0,4
+6,suave,rígido,0,35.0,2
+7,poroso,blando,0,18.5,4
+8,rugoso,medio,6,95.0,3
+9,suave,medio,4,70.0,4
+10,poroso,blando,0,22.0,3

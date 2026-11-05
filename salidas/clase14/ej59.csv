@@ -1,0 +1,6 @@
+vuelo,carrier,dest,dep_delay,faa,aeropuerto_destino
+1,UA,IAH,2,IAH,George Bush Intercontinental
+2,AA,MIA,-4,MIA,Miami Intl
+3,B6,SJU,33,,
+4,UA,ORD,0,ORD,Chicago Ohare Intl
+5,DL,ATL,-6,ATL,Hartsfield Jackson Atlanta Intl

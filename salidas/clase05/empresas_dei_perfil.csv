@@ -1,0 +1,13 @@
+,tipo,faltantes,valores_distintos
+Estado de la empresa,str,0,2
+RUT,int64,0,1422
+Código CIIU principal,int64,0,264
+Descripción Código CIIU principal,str,0,263
+Denominación Social,str,0,1422
+Nombre comercial,str,380,1037
+Dirección Estab. Principal,str,169,1203
+Departamento Estab. Principal,str,267,20
+Número de teléfono,str,121,1181
+Email público,str,0,1188
+Sitio web,str,925,496
+Fec. Registro,str,0,416

@@ -1,0 +1,29 @@
+{
+  "transito_aire_junio2024.csv": {
+    "obtenido": "2026-11-05T12:07:53.984899-03:00",
+    "url": "https://raw.githubusercontent.com/DavytJ/Introduccion-a-la-ciencia-de-datos/71cbebe1b3cd96d58b4bc9789fd016c7ac874cbd/clases/clase10/transito_aire_junio2024.csv",
+    "bytes": 130546,
+    "sha256": "df90b9d15ee10f8848c6c2154351075628dc455422389ce9310d26a2f5696b5d",
+    "filas": 2160
+  },
+  "ticket.jpg": {
+    "obtenido": "2026-11-05T12:07:54.618312-03:00",
+    "url": "https://raw.githubusercontent.com/DavytJ/Introduccion-a-la-ciencia-de-datos/71cbebe1b3cd96d58b4bc9789fd016c7ac874cbd/clases/clase11/clase_ia/ticket.jpg",
+    "bytes": 45390,
+    "sha256": "1443a97ad65b6e5d6f09dbda46d7dfeed50cc47290d1f5b47eb30b8eee25f87f"
+  },
+  "o3_01_2024_04_2024.csv": {
+    "obtenido": "2026-11-05T12:07:57.028363-03:00",
+    "url": "https://ckan-data.montevideo.gub.uy/dataset/70a1a63d-4157-43c0-9ae6-00fc14dae29a/resource/a97d7ffb-be66-4438-8de8-fa4c7cacf66c/download/o3_01_2024_04_2024.csv",
+    "bytes": 21874717,
+    "sha256": "c83639f27c96cd150b79b4477acbf8966e1441eb848c2ccf66840c4d7a54b52b",
+    "filas": 291926
+  },
+  "empresasdei_20230330.csv": {
+    "obtenido": "2026-11-05T12:07:57.869917-03:00",
+    "url": "https://catalogodatos.gub.uy/dataset/575ccb87-ae74-4dcd-ba4b-cf050bd8e08a/resource/e56d1949-3e94-42a9-801f-c6d2523b185d/download/empresasdei_20230330.csv",
+    "bytes": 278135,
+    "sha256": "a06ab4077421974be9da8364e277fd984378e494daabba0b8e6269566cbf2142",
+    "filas": 1422
+  }
+}

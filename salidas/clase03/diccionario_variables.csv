@@ -1,0 +1,7 @@
+variable,tipo,unidad,instrumento,rango_valido,faltante
+objeto_id,identificador,sin unidad,numeración en la actividad,único y no vacío,vacío
+textura,categórica nominal,sin unidad,clasificación táctil propuesta; protocolo real no aportado,suave/rugoso/poroso,vacío
+rigidez,categórica ordinal,sin unidad,clasificación táctil propuesta; protocolo real no aportado,blando < medio < rígido,vacío
+num_aristas,conteo entero,aristas,"conteo táctil propuesto; 0 es ausencia de aristas, no desconocimiento",entero >= 0,vacío si no se pudo contar
+peso_estimado_g,numérica continua,gramos,"ejemplo docente: estimación táctil, 15 s, sin ver el objeto",> 0,vacío
+certeza_observador,categórica ordinal,escala 1-5,autoevaluación propuesta al terminar la observación,1 a 5,vacío

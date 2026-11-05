@@ -1,0 +1,7 @@
+vuelo,origin,hour_vuelo,hour_clima,visib
+1,EWR,5,5,10.0
+1,EWR,5,6,2.0
+2,EWR,6,5,10.0
+2,EWR,6,6,2.0
+3,JFK,5,5,10.0
+3,JFK,5,6,0.5

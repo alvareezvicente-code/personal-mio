@@ -1,0 +1,5 @@
+,coeficiente
+Intercept,7.951168822202645
+C(tipo_dia)[T.lunes a viernes],-35.16990707699528
+transito_miles,1.17081773132633
+transito_miles:C(tipo_dia)[T.lunes a viernes],0.6596305864044213
