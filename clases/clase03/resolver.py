@@ -1,6 +1,6 @@
 """Prácticos A y B, ejercicios 1 a 8. Datos de caja negra del docente.
 Fuente: DavytJ/Introduccion-a-la-ciencia-de-datos, clases/clase3.
-Solución escrita con asistencia de Codex, 05/11/2026.
+Solución escrita con asistencia de IA, 05/11/2026.
 """
 from pathlib import Path
 import sys

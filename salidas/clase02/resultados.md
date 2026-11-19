@@ -1,6 +1,6 @@
 # Clase 2: caja negra, bootstrap y datos sintéticos
 
-Resolución preparada con asistencia de Codex el 19/11/2026. Se usan diez registros del ejemplo docente, no observaciones personales nuevas.
+Resolución preparada con asistencia de IA el 19/11/2026. Se usan diez registros del ejemplo docente, no observaciones personales nuevas.
 
 ## Resultados
 
