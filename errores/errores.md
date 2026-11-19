@@ -1,6 +1,6 @@
 # Errores y decisiones comprobados
 
-Registro de esta preparación, con asistencia de IA; no representa errores históricos del estudiante.
+Registro de esta preparación; no representa errores históricos del estudiante.
 
 | Caso | Cómo se detectó | Corrección |
 |---|---|---|

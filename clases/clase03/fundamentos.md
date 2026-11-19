@@ -1,6 +1,6 @@
 # Clase 3: fundamentos
 
-Resolución preparada con asistencia de IA el 05/11/2026, a partir de las preguntas del docente. Pendiente de lectura y explicación por el estudiante.
+Resolución preparada el 05/11/2026, a partir de las preguntas del docente. Pendiente de lectura y explicación por el estudiante.
 
 | Pregunta | Respuesta | Justificación |
 |---|---|---|

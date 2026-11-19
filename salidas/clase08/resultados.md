@@ -1,6 +1,6 @@
 # Clase 8: las partes de un gráfico
 
-Resolución nueva preparada con asistencia de IA el 19/11/2026. Se compara una figura inicial con una corregida y se muestran por separado las capas de línea y puntos.
+Resolución nueva preparada el 19/11/2026. Se compara una figura inicial con una corregida y se muestran por separado las capas de línea y puntos.
 
 ## Datos usados
 

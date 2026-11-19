@@ -6,7 +6,7 @@ Se ejecutaron los dos programas nuevos desde otra carpeta con las dependencias y
 
 La primera comprobación terminó ambos ejercicios, pero su lanzador dejó una carpeta temporal como directorio de trabajo al finalizar. Se corrigió el lanzador de comprobación; ese problema no pertenecía a los scripts de las clases.
 
-Entorno: Python 3.12 y versiones de `requirements.txt`. Comprobaciones ejecutadas con asistencia de IA; la revisión independiente del estudiante sigue pendiente.
+Entorno: Python 3.12 y versiones de `requirements.txt`. Comprobaciones ejecutadas; la revisión independiente del estudiante sigue pendiente.
 
 ## Ejecutado
 

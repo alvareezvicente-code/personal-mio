@@ -1,5 +1,5 @@
 """Siete ejercicios de tránsito y aire. Consigna: clase13/clase12_ejercicios(1).py
-del repositorio docente. Solución nueva con asistencia de IA.
+del repositorio docente. Solución nueva.
 """
 from pathlib import Path
 import sys

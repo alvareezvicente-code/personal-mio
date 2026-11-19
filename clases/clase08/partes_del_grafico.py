@@ -2,7 +2,7 @@
 
 Se calculan las medias desde los datos originales de ozono. No modifica clase 7.
 Referencia docente: clase8/vizualizacion_basica_python.py.
-Solución nueva con asistencia de IA, 19/11/2026.
+Solución nueva, 19/11/2026.
 """
 from pathlib import Path
 import numpy as np
@@ -75,7 +75,7 @@ def main():
     guardar(fig,'clase08_corregida.png')
     texto = f'''# Clase 8: las partes de un gráfico
 
-Resolución nueva preparada con asistencia de IA el 19/11/2026. Se compara una figura inicial con una corregida y se muestran por separado las capas de línea y puntos.
+Resolución nueva preparada el 19/11/2026. Se compara una figura inicial con una corregida y se muestran por separado las capas de línea y puntos.
 
 ## Datos usados
 

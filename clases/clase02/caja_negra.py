@@ -2,7 +2,7 @@
 
 Datos de ejemplo del docente, no mediciones personales del estudiante.
 Fuente: DavytJ/Introduccion-a-la-ciencia-de-datos, clase2/generacion de datos.qmd.
-Implementación nueva con asistencia de IA, 19/11/2026.
+Implementación nueva, 19/11/2026.
 """
 from pathlib import Path
 import numpy as np
@@ -80,7 +80,7 @@ def main():
     plt.close(fig)
     texto = f'''# Clase 2: caja negra, bootstrap y datos sintéticos
 
-Resolución preparada con asistencia de IA el 19/11/2026. Se usan diez registros del ejemplo docente, no observaciones personales nuevas.
+Resolución preparada el 19/11/2026. Se usan diez registros del ejemplo docente, no observaciones personales nuevas.
 
 ## Resultados
 
