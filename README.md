@@ -50,14 +50,8 @@ El último comando solo prepara la lectura; no envía la imagen. Los scripts gen
 - [Fuentes y obtención](datos/fuentes.md).
 - [Comprobaciones y límites](VALIDACION.md).
 
-## Qué falta del estudiante
-
-Confirmar el tema y resolver el desafío específico del equipo; completar las experiencias personales previas del diario; ejecutar y revisar la lectura del ticket con una cuenta propia; leer y explicar las soluciones. La clase 10 analiza la tabla horaria del docente y no reconstruye su emparejamiento espacial de sensores. No se afirma que esta ampliación cubra toda exigencia de evaluación o participación del curso.
 
 ## Fuentes
 
-El 19/11/2026 se agregaron únicamente las clases 2 y 8, con cuatro figuras y resultados reproducibles. No se ampliaron las clases 7 y 10. Para esas dos actividades nuevas se consultó el material docente de la versión `e17cf90d892bd5f0585aa2660f12b29e17e3c44a`.
-
-Las preguntas y los datos de práctica se atribuyen a [Joselina Davyt-Colo y el repositorio del curso](https://github.com/DavytJ/Introduccion-a-la-ciencia-de-datos). Se tomó como referencia su versión `71cbebe1b3cd96d58b4bc9789fd016c7ac874cbd`. La organización de los repositorios de compañeros sirvió para identificar materiales ausentes; sus respuestas y diarios no se incorporaron.
-
+Las preguntas y los datos de práctica se atribuyen a [Joselina Davyt-Colo y el repositorio del curso](https://github.com/DavytJ/Introduccion-a-la-ciencia-de-datos). 
 ![Ozono: máximo diario de media móvil de ocho horas](graficos/clase07_ozono_8h.png)
