@@ -15,8 +15,8 @@ def main():
     with tempfile.TemporaryDirectory() as otra:
         os.chdir(otra)
         try:
-            for archivo in ['clases/clase03/resolver.py','clases/clase05/inspeccionar.py',
-                'clases/clase07/ozono.py','clases/clase10/transito_aire.py',
+            for archivo in ['clases/clase02/caja_negra.py','clases/clase03/resolver.py','clases/clase05/inspeccionar.py',
+                'clases/clase07/ozono.py','clases/clase08/partes_del_grafico.py','clases/clase10/transito_aire.py',
                 'clases/clase12/resolver.py','clases/clase14/resolver.py']:
                 print('\nCOMPROBANDO',archivo,flush=True)
                 runpy.run_path(str(RAIZ/archivo),run_name='__main__')

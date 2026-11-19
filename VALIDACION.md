@@ -1,5 +1,11 @@
 # Comprobaciones del 05/11/2026
 
+## Ampliación del 19/11/2026: solo clases 2 y 8
+
+Se ejecutaron los dos programas nuevos desde otra carpeta con las dependencias ya instaladas y se revisaron sus cuatro figuras. La clase 2 comprueba que las 100 filas remuestreadas provienen de los registros originales, que hay 500 pesos sintéticos y que el recorte conserva los valores que ya superaban el mínimo. La clase 8 comprueba que los conteos mensuales suman los registros válidos y que su media ponderada coincide con la media global. Se agregó cada programa al verificador general, sin volver a ejecutar ni modificar las clases 7 y 10.
+
+La primera comprobación terminó ambos ejercicios, pero su lanzador dejó una carpeta temporal como directorio de trabajo al finalizar. Se corrigió el lanzador de comprobación; ese problema no pertenecía a los scripts de las clases.
+
 Entorno: Python 3.12 y versiones de `requirements.txt`. Comprobaciones ejecutadas por Codex; la revisión independiente del estudiante sigue pendiente.
 
 ## Ejecutado
